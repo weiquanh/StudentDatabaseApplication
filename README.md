@@ -12,7 +12,7 @@ The application does the following:
       English 101
       Chemistry 101
       Computer Science 101
-      etc.
+      etc
 5. Each course costs $600 to enroll
 6. The student should be able to view their tuition balance and pay the tuition
 7. To see the status of the student, we should see their name, student ID, courses enrolled, and tuition balance
