@@ -1,6 +1,8 @@
 # StudentDatabaseApplication
 
-Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
+Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments 
+          and balance.
+
 The application does the following:
 1. Ask the user how many new students will be added to the database
 2. The user should be prompted to enter the name and year for each student
