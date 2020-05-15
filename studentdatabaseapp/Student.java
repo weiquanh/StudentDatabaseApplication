@@ -46,12 +46,12 @@ public class Student {
 	// generate random 7-digit student ID
 	private void setStudentID() {
 		String studentIDSet = "0123456789";
-    	char[] studentID = new char[7];
-    	for (int i = 0; i < studentID.length; i++) {
-    		int rand = (int) (Math.random() * studentIDSet.length());
-    		studentID[i] = studentIDSet.charAt(rand);
-    	}
-    	this.studentID =  new String(studentID);
+		char[] studentID = new char[7];
+		for (int i = 0; i < studentID.length; i++) {
+			int rand = (int) (Math.random() * studentIDSet.length());
+			studentID[i] = studentIDSet.charAt(rand);
+		}
+		this.studentID =  new String(studentID);
 	}
 	
 	// enroll courses
