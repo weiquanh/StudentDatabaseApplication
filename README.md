@@ -6,7 +6,7 @@ The application does the following:
 1. Ask the user how many new students will be added to the database
 2. The user should be prompted to enter the name and class stadning for each student
 3. The student should have a 7-digit random student ID
-4. A student can enroll in the any courses, for example:
+4. A student can enroll in the any courses, for example: 
       History 101
       Mathematics 101
       English 101
